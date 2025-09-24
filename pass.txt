@@ -10,6 +10,8 @@ $SRV
 00000000
 06071992
 0th
+webadmin
+adminpanel
 1
 1111
 11111
